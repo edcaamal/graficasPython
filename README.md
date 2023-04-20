@@ -1,4 +1,4 @@
-# graficasPython
+# Graficas con Python
 Proyecto para el CONALEP, para la creaciónde gráficas
 
 **-Alumnos aprobados-reprobados-promedio**
