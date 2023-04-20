@@ -10,6 +10,7 @@ Proyecto eductativo para, para la creaciónde gráficas
 #### Análisis Númerico
 
 **-Método Gráfico**
+
 ![Método Gráfico](https://github.com/edcaamal/documentationProjects/blob/main/documentationProjects/python/metodoGrafico.PNG?raw=true)
 
 
