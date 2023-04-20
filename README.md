@@ -17,3 +17,14 @@ Proyecto eductativo para, para la creaciónde gráficas
 **-Método Newton - Ramphson V1**
 
 ![Método Newton - Ramphson V1](https://github.com/edcaamal/documentationProjects/blob/main/documentationProjects/python/NewtonRamphsonV1.PNG?raw=true)
+
+
+**-Método Newton - Ramphson V2**
+
+![Método Newton - Ramphson V1](https://github.com/edcaamal/documentationProjects/blob/main/documentationProjects/python/NewtonRamphsonV2.PNG?raw=true)
+
+**-Método Newton - Ramphson V3**
+Combinar Método Gráfico con el Método Gráfico con el Newton - Ramphson
+
+![Método Newton - Ramphson V1](https://github.com/edcaamal/documentationProjects/blob/main/documentationProjects/python/NewtonRamphsonV3.PNG?raw=true)
+
