@@ -1,5 +1,10 @@
 # Graficas con Python
-Proyecto eductativo para, para la creaciónde gráficas
+Proyecto educativo para, para la creaciónde gráficas
+
+### Turtle para crear poligonos y nombre
+**-Poligonos**
+
+![Poligonos](https://github.com/edcaamal/documentationProjects/blob/main/documentationProjects/python/edcPoligono.PNG?raw=true)
 
 ### Gráficas 
 **-Alumnos aprobados-reprobados-promedio**
